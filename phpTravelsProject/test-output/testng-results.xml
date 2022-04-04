@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-17T11:16:48 IST" name="Default suite" finished-at="2022-02-17T11:17:05 IST" duration-ms="17422">
+    <groups>
+    </groups>
+    <test started-at="2022-02-17T11:16:48 IST" name="Default test" finished-at="2022-02-17T11:17:05 IST" duration-ms="17422">
+      <class name="testCustomerPages.TestLoginPage">
+        <test-method is-config="true" signature="LaunchBrowser()[pri:0, instance:testCustomerPages.TestLoginPage@7c729a55]" started-at="2022-02-17T11:16:48 IST" name="LaunchBrowser" finished-at="2022-02-17T11:17:04 IST" duration-ms="15923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchBrowser -->
+        <test-method signature="LoginPage()[pri:0, instance:testCustomerPages.TestLoginPage@7c729a55]" started-at="2022-02-17T11:17:04 IST" name="LoginPage" finished-at="2022-02-17T11:17:04 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPage -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:testCustomerPages.TestLoginPage@7c729a55]" started-at="2022-02-17T11:17:04 IST" name="getResult" finished-at="2022-02-17T11:17:04 IST" duration-ms="295" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginPage status=SUCCESS method=TestLoginPage.LoginPage()[pri:0, instance:testCustomerPages.TestLoginPage@7c729a55] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:testCustomerPages.TestLoginPage@7c729a55]" started-at="2022-02-17T11:17:04 IST" name="CloseBrowser" finished-at="2022-02-17T11:17:05 IST" duration-ms="1018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- testCustomerPages.TestLoginPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

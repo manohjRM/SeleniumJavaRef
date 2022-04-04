@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;softwares&apos; to &apos;Initiate&apos;" description="Move &apos;softwares&apos; to &apos;Initiate&apos;" destination="/Initiate" element1="/selenium/softwares" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1638980108599" updateReferences="true"/>
+</session>
